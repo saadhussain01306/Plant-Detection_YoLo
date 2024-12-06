@@ -86,8 +86,8 @@ PlantDetection/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/PlantDetection.git
-   cd PlantDetection
+   git clone https://github.com/saadhussain01306/Plant-Detection_YoLo.git
+   cd Plant-Detection_YoLo
    ```
 
 2. Install dependencies:
